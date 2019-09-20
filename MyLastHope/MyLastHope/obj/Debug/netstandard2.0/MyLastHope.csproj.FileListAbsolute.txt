@@ -1,0 +1,13 @@
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\bin\Debug\netstandard2.0\MyLastHope.deps.json
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\bin\Debug\netstandard2.0\MyLastHope.dll
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\bin\Debug\netstandard2.0\MyLastHope.pdb
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\MyLastHope.csproj.CoreCompileInputs.cache
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\MyLastHope.AssemblyInfoInputs.cache
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\MyLastHope.AssemblyInfo.cs
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\MyLastHope.dll
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\MyLastHope.pdb
+C:\Users\RedMa\source\repos\MyLastHope\MyLastHope\MyLastHope\obj\Debug\netstandard2.0\MyLastHope.csprojAssemblyReference.cache
